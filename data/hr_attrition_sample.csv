@@ -1,0 +1,241 @@
+employee_id,department,job_role,age,gender,tenure_years,monthly_salary_usd,job_satisfaction_1_5,work_life_balance_1_5,performance_rating,overtime,attrition,exit_reason
+EMP1015,Sales,Business Development Rep,58,Female,11.4,3268,4,4,5,No,Yes,Work-life balance
+EMP1135,Engineering,QA Analyst,52,Male,10.9,4452,3,5,5,No,No,
+EMP1215,Finance,Accountant,47,Male,1.2,6768,3,2,4,No,No,
+EMP1020,Sales,Sales Representative,28,Female,1.0,6039,4,1,3,No,Yes,Career growth
+EMP1005,Sales,Account Executive,40,Male,10.0,6283,3,4,2,Yes,Yes,Career growth
+EMP1067,Customer Support,Support Team Lead,52,Female,1.6,3047,3,1,4,Yes,Yes,Work-life balance
+EMP1149,Engineering,DevOps Engineer,45,Female,11.1,5246,4,4,2,No,No,
+EMP1016,Sales,Sales Representative,55,Male,10.5,6955,5,5,4,No,No,
+EMP1188,Operations,Operations Manager,27,Male,5.0,3375,2,2,3,Yes,Yes,Career growth
+EMP1083,Customer Support,Support Specialist,36,Male,10.3,6820,1,4,4,No,No,
+EMP1167,Operations,Operations Manager,32,Female,9.8,5749,2,2,5,No,No,
+EMP1025,Sales,Sales Representative,37,Male,5.0,5022,3,1,2,No,No,
+EMP1055,Sales,Business Development Rep,32,Male,7.4,3584,4,2,3,No,No,
+EMP1196,Human Resources,HR Business Partner,48,Female,4.7,6511,3,5,3,Yes,No,
+EMP1128,Engineering,QA Analyst,32,Female,4.6,5423,3,4,4,Yes,No,
+EMP1039,Sales,Business Development Rep,34,Female,4.6,3097,5,5,4,No,Yes,Relocation
+EMP1133,Engineering,Software Engineer,24,Male,8.0,3764,3,2,3,No,No,
+EMP1033,Sales,Account Executive,28,Male,4.4,6772,5,4,5,Yes,Yes,Manager support
+EMP1040,Sales,Account Executive,48,Male,4.1,5562,3,2,4,No,No,
+EMP1034,Sales,Account Executive,23,Male,2.4,5961,4,3,4,No,No,
+EMP1024,Sales,Account Executive,25,Male,7.1,7825,5,3,2,No,No,
+EMP1026,Sales,Account Executive,35,Female,8.1,5765,2,3,4,No,No,
+EMP1122,Engineering,Software Engineer,29,Female,6.5,4451,5,2,4,No,No,
+EMP1137,Engineering,Software Engineer,55,Male,10.3,5446,1,2,3,No,No,
+EMP1076,Customer Support,Support Specialist,57,Male,0.7,3295,2,2,5,No,No,
+EMP1198,Human Resources,HR Executive,49,Female,6.5,4841,2,2,3,No,No,
+EMP1119,Engineering,QA Analyst,44,Male,1.1,2795,3,3,2,No,No,
+EMP1006,Sales,Account Executive,46,Male,3.6,6318,2,2,4,No,No,
+EMP1078,Customer Support,Support Specialist,30,Female,11.2,7118,5,3,2,No,No,
+EMP1180,Operations,Operations Manager,47,Male,9.9,3933,2,2,4,No,No,
+EMP1080,Customer Support,Support Specialist,40,Male,6.3,5319,3,3,3,No,Yes,Career growth
+EMP1182,Operations,Operations Analyst,55,Male,2.9,4876,1,3,4,Yes,No,
+EMP1121,Engineering,Software Engineer,28,Female,3.1,6707,3,3,3,No,No,
+EMP1132,Engineering,DevOps Engineer,53,Male,2.5,3835,2,2,4,No,No,
+EMP1222,Finance,Accountant,46,Male,1.3,5559,4,4,2,Yes,No,
+EMP1070,Customer Support,Support Team Lead,57,Female,1.2,2362,3,4,3,Yes,Yes,Career growth
+EMP1154,Engineering,DevOps Engineer,45,Female,5.0,5377,2,1,4,No,No,
+EMP1208,Human Resources,HR Executive,38,Female,4.5,7764,3,4,4,No,No,
+EMP1228,Marketing,Content Specialist,49,Female,9.8,3820,2,3,4,No,Yes,Compensation
+EMP1002,Sales,Account Executive,23,Female,1.4,4874,3,1,3,No,No,
+EMP1224,Marketing,Marketing Executive,54,Female,5.1,2620,1,3,4,No,No,
+EMP1041,Sales,Business Development Rep,41,Female,5.1,2337,2,2,4,No,Yes,Compensation
+EMP1007,Sales,Business Development Rep,32,Female,6.5,5007,2,3,5,No,No,
+EMP1185,Operations,Operations Manager,33,Female,11.3,5495,5,1,4,Yes,No,
+EMP1004,Sales,Sales Representative,28,Female,4.5,6090,3,4,4,No,No,
+EMP1160,Operations,Operations Analyst,30,Female,5.4,2938,4,3,3,Yes,No,
+EMP1060,Sales,Sales Representative,50,Female,3.2,7409,3,4,3,No,No,
+EMP1240,Marketing,Content Specialist,56,Male,2.5,5893,2,1,4,No,No,
+EMP1156,Operations,Operations Analyst,50,Male,12.0,5824,4,4,4,No,No,
+EMP1065,Customer Support,Support Team Lead,34,Male,3.8,6275,2,1,4,Yes,No,
+EMP1212,Finance,Finance Analyst,25,Female,9.2,6837,2,3,2,Yes,No,
+EMP1085,Customer Support,Support Team Lead,31,Male,1.2,5228,3,4,4,No,No,
+EMP1134,Engineering,Software Engineer,24,Female,5.1,4927,5,3,4,No,No,
+EMP1086,Customer Support,Support Specialist,53,Male,10.5,2725,3,2,4,No,Yes,Career growth
+EMP1082,Customer Support,Support Specialist,50,Male,6.6,6103,3,4,3,No,No,
+EMP1021,Sales,Account Executive,26,Female,5.5,3402,1,5,4,No,No,
+EMP1103,Customer Support,Support Team Lead,36,Male,4.1,3945,4,3,3,No,No,
+EMP1095,Customer Support,Support Team Lead,40,Male,9.0,6033,4,3,2,No,No,
+EMP1164,Operations,Operations Analyst,41,Female,6.0,6768,2,1,2,No,No,
+EMP1210,Finance,Finance Analyst,43,Male,3.0,5017,3,3,4,Yes,No,
+EMP1028,Sales,Sales Representative,56,Female,8.5,2418,4,3,5,Yes,No,
+EMP1218,Finance,Finance Analyst,39,Male,10.8,2692,2,4,2,Yes,Yes,Manager support
+EMP1187,Operations,Operations Manager,22,Male,8.9,5555,3,4,3,No,No,
+EMP1088,Customer Support,Support Specialist,48,Female,6.9,4300,2,1,5,No,Yes,Relocation
+EMP1206,Human Resources,HR Business Partner,34,Female,9.7,4703,3,4,3,No,Yes,Career change
+EMP1046,Sales,Sales Representative,50,Female,7.5,7846,3,5,3,Yes,No,
+EMP1072,Customer Support,Support Team Lead,41,Female,7.3,5485,3,3,3,No,No,
+EMP1115,Engineering,Software Engineer,51,Female,4.3,6375,2,2,5,No,No,
+EMP1001,Sales,Business Development Rep,29,Female,0.6,5337,2,1,3,No,No,
+EMP1111,Engineering,DevOps Engineer,48,Male,4.4,6952,5,4,5,No,No,
+EMP1089,Customer Support,Support Team Lead,38,Male,5.7,2435,5,3,3,No,Yes,Career change
+EMP1059,Sales,Account Executive,56,Female,9.4,7410,3,4,3,No,No,
+EMP1191,Operations,Operations Analyst,51,Male,9.0,6414,3,3,3,No,No,
+EMP1098,Customer Support,Support Specialist,51,Female,10.9,5634,4,1,2,Yes,No,
+EMP1106,Customer Support,Support Team Lead,55,Female,3.8,2673,1,3,3,No,No,
+EMP1052,Sales,Sales Representative,38,Female,4.7,4645,3,2,5,Yes,No,
+EMP1012,Sales,Sales Representative,39,Male,9.3,6048,1,3,3,No,No,
+EMP1010,Sales,Business Development Rep,47,Female,4.5,3844,3,1,2,Yes,No,
+EMP1201,Human Resources,Recruiter,58,Female,4.0,5835,2,4,5,No,No,
+EMP1049,Sales,Sales Representative,48,Male,4.9,2546,4,4,3,Yes,No,
+EMP1155,Operations,Operations Manager,38,Female,8.5,4677,5,2,5,No,Yes,Manager support
+EMP1102,Customer Support,Support Specialist,35,Male,7.8,2566,1,2,5,No,Yes,Manager support
+EMP1174,Operations,Operations Analyst,29,Male,11.8,5693,4,4,4,Yes,No,
+EMP1190,Operations,Operations Analyst,54,Male,11.1,5730,4,3,5,No,No,
+EMP1230,Marketing,Marketing Executive,56,Male,2.4,2627,5,3,4,No,No,
+EMP1186,Operations,Operations Manager,56,Male,6.4,3799,4,3,3,Yes,Yes,Compensation
+EMP1063,Customer Support,Support Team Lead,55,Female,4.3,5946,3,3,3,Yes,No,
+EMP1051,Sales,Sales Representative,51,Female,11.1,2627,5,3,4,Yes,No,
+EMP1123,Engineering,DevOps Engineer,38,Male,2.6,4003,4,3,3,No,No,
+EMP1093,Customer Support,Support Team Lead,24,Female,3.9,7148,1,3,3,No,No,
+EMP1112,Engineering,Software Engineer,31,Male,8.0,4782,4,2,4,Yes,No,
+EMP1019,Sales,Business Development Rep,37,Female,9.5,6779,2,1,3,No,No,
+EMP1032,Sales,Account Executive,31,Male,5.3,2790,2,5,4,No,No,
+EMP1214,Finance,Finance Analyst,49,Female,9.7,4291,1,1,3,Yes,No,
+EMP1179,Operations,Operations Manager,53,Male,4.0,6143,3,5,4,No,No,
+EMP1017,Sales,Account Executive,45,Male,5.4,7264,2,2,3,No,Yes,Career growth
+EMP1084,Customer Support,Support Specialist,24,Female,1.8,5959,5,4,3,No,No,
+EMP1162,Operations,Operations Analyst,32,Male,7.2,4017,2,3,5,No,No,
+EMP1120,Engineering,QA Analyst,48,Female,3.7,6757,1,2,4,No,No,
+EMP1053,Sales,Account Executive,27,Male,5.8,2902,5,2,4,No,No,
+EMP1184,Operations,Operations Manager,36,Male,6.6,2740,5,2,5,Yes,No,
+EMP1097,Customer Support,Support Specialist,45,Male,1.6,4887,3,3,5,No,No,
+EMP1172,Operations,Operations Manager,30,Female,8.6,7507,3,2,5,Yes,No,
+EMP1013,Sales,Business Development Rep,33,Male,6.2,3495,5,2,4,No,Yes,Manager support
+EMP1087,Customer Support,Support Specialist,28,Female,5.5,5604,5,1,4,No,No,
+EMP1066,Customer Support,Support Team Lead,30,Male,7.8,7695,1,1,3,No,Yes,Career change
+EMP1183,Operations,Operations Analyst,32,Male,5.1,7529,3,2,5,No,No,
+EMP1161,Operations,Operations Analyst,55,Male,10.8,3194,2,3,4,Yes,No,
+EMP1129,Engineering,QA Analyst,28,Female,6.8,6555,2,4,4,No,No,
+EMP1038,Sales,Business Development Rep,54,Male,1.7,4409,2,4,2,No,No,
+EMP1235,Marketing,Marketing Executive,51,Female,9.3,7799,2,5,4,No,No,
+EMP1042,Sales,Account Executive,52,Male,9.6,4186,4,2,4,No,Yes,Career change
+EMP1170,Operations,Operations Analyst,40,Male,1.2,7841,3,3,4,No,No,
+EMP1117,Engineering,Software Engineer,49,Male,1.6,7648,3,2,3,No,Yes,Career growth
+EMP1225,Marketing,Content Specialist,46,Female,9.4,4984,3,2,3,Yes,No,
+EMP1192,Operations,Operations Analyst,27,Female,6.4,6284,1,3,2,No,No,
+EMP1238,Marketing,Content Specialist,57,Female,2.2,6990,5,2,3,Yes,No,
+EMP1197,Human Resources,HR Business Partner,44,Male,1.7,6626,3,4,3,Yes,Yes,Career growth
+EMP1073,Customer Support,Support Specialist,24,Male,10.7,5853,3,1,3,No,No,
+EMP1199,Human Resources,HR Executive,48,Female,7.5,2504,2,1,4,No,No,
+EMP1104,Customer Support,Support Specialist,29,Male,8.0,2614,2,2,4,No,Yes,Career growth
+EMP1124,Engineering,QA Analyst,50,Male,8.3,5863,5,3,3,Yes,No,
+EMP1176,Operations,Operations Analyst,48,Male,8.4,6815,3,3,3,No,No,
+EMP1142,Engineering,DevOps Engineer,53,Female,7.3,2512,4,3,4,No,Yes,Compensation
+EMP1239,Marketing,Marketing Executive,34,Male,5.6,7025,3,4,3,No,No,
+EMP1018,Sales,Business Development Rep,25,Male,3.0,2676,4,1,3,No,Yes,Career growth
+EMP1234,Marketing,Content Specialist,49,Female,1.5,3410,2,3,4,No,No,
+EMP1171,Operations,Operations Analyst,47,Female,4.7,6037,3,3,3,No,No,
+EMP1110,Customer Support,Support Team Lead,27,Male,1.4,3388,4,3,3,Yes,No,
+EMP1136,Engineering,DevOps Engineer,48,Male,11.6,4514,4,1,3,No,No,
+EMP1054,Sales,Sales Representative,34,Male,10.1,3997,2,3,3,No,No,
+EMP1061,Sales,Business Development Rep,38,Male,4.3,5350,3,3,3,Yes,No,
+EMP1219,Finance,Accountant,41,Male,2.2,4959,3,4,4,No,No,
+EMP1146,Engineering,Software Engineer,33,Female,9.8,3022,4,5,2,Yes,No,
+EMP1023,Sales,Business Development Rep,57,Female,8.0,7649,2,2,5,No,No,
+EMP1236,Marketing,Content Specialist,31,Female,4.4,6080,3,2,4,No,No,
+EMP1068,Customer Support,Support Team Lead,37,Female,1.7,6879,3,4,3,No,No,
+EMP1189,Operations,Operations Analyst,41,Female,7.1,2458,2,2,3,No,No,
+EMP1165,Operations,Operations Analyst,31,Female,4.0,5821,4,4,5,Yes,No,
+EMP1226,Marketing,Content Specialist,32,Male,5.4,6932,2,4,3,No,No,
+EMP1064,Customer Support,Support Team Lead,56,Male,11.4,4355,2,4,3,No,No,
+EMP1027,Sales,Sales Representative,58,Female,12.0,3133,3,3,3,No,Yes,Career growth
+EMP1204,Human Resources,HR Business Partner,51,Female,11.0,6840,5,3,3,Yes,No,
+EMP1056,Sales,Business Development Rep,46,Male,4.9,4499,1,4,4,Yes,No,
+EMP1150,Engineering,Software Engineer,28,Male,1.2,5562,2,3,3,No,No,
+EMP1113,Engineering,QA Analyst,57,Male,11.7,2620,3,3,4,Yes,No,
+EMP1011,Sales,Business Development Rep,26,Male,4.8,7445,3,5,5,Yes,No,
+EMP1139,Engineering,QA Analyst,23,Male,4.0,3415,4,3,4,Yes,No,
+EMP1094,Customer Support,Support Team Lead,30,Male,9.5,6329,3,5,4,Yes,No,
+EMP1140,Engineering,DevOps Engineer,30,Male,9.2,7457,3,1,2,Yes,No,
+EMP1069,Customer Support,Support Specialist,49,Female,3.9,2991,3,4,5,Yes,Yes,Work-life balance
+EMP1216,Finance,Finance Analyst,24,Male,1.4,6475,3,3,4,No,Yes,Manager support
+EMP1147,Engineering,DevOps Engineer,41,Female,6.3,7504,2,4,3,No,No,
+EMP1029,Sales,Sales Representative,28,Male,9.0,4031,2,3,4,Yes,No,
+EMP1211,Finance,Accountant,44,Male,2.3,7667,2,5,5,No,No,
+EMP1141,Engineering,Software Engineer,55,Female,5.3,5480,2,1,3,No,No,
+EMP1177,Operations,Operations Manager,57,Male,4.1,7558,3,2,3,No,No,
+EMP1169,Operations,Operations Analyst,22,Female,10.2,7040,2,2,3,No,Yes,Career growth
+EMP1233,Marketing,Content Specialist,37,Male,8.0,6210,2,3,4,No,No,
+EMP1044,Sales,Sales Representative,46,Female,6.1,4998,2,4,5,No,No,
+EMP1193,Human Resources,HR Executive,55,Male,5.5,4576,4,3,5,No,No,
+EMP1200,Human Resources,HR Executive,24,Male,5.0,4892,3,4,4,Yes,No,
+EMP1058,Sales,Business Development Rep,28,Female,5.4,6289,4,4,4,No,No,
+EMP1071,Customer Support,Support Specialist,36,Female,11.1,4494,3,3,4,No,No,
+EMP1009,Sales,Sales Representative,53,Male,4.9,7345,2,1,4,No,No,
+EMP1075,Customer Support,Support Team Lead,52,Male,4.4,5973,3,1,3,No,No,
+EMP1057,Sales,Sales Representative,29,Male,9.6,2781,3,3,3,No,No,
+EMP1008,Sales,Business Development Rep,25,Female,3.0,2683,4,3,2,No,No,
+EMP1145,Engineering,DevOps Engineer,43,Male,1.9,6181,3,4,3,No,No,
+EMP1223,Marketing,Content Specialist,42,Male,4.5,3332,1,2,3,Yes,Yes,Career growth
+EMP1195,Human Resources,HR Executive,44,Male,8.5,2991,5,1,5,Yes,No,
+EMP1175,Operations,Operations Manager,52,Female,2.3,6486,2,4,2,No,Yes,Career growth
+EMP1114,Engineering,Software Engineer,44,Female,0.4,3898,3,3,3,No,Yes,Manager support
+EMP1107,Customer Support,Support Team Lead,27,Female,4.1,3953,1,2,4,No,No,
+EMP1194,Human Resources,HR Executive,51,Female,6.9,7383,4,2,2,Yes,Yes,Career growth
+EMP1105,Customer Support,Support Specialist,55,Male,1.6,3027,3,4,4,Yes,No,
+EMP1127,Engineering,QA Analyst,50,Male,1.5,6084,5,1,4,Yes,No,
+EMP1168,Operations,Operations Manager,47,Female,6.2,4962,2,2,2,No,No,
+EMP1130,Engineering,QA Analyst,31,Male,11.0,5721,5,4,3,No,No,
+EMP1144,Engineering,DevOps Engineer,24,Female,7.7,6410,2,1,4,No,No,
+EMP1227,Marketing,Content Specialist,34,Female,5.7,3813,2,5,3,No,No,
+EMP1050,Sales,Sales Representative,48,Male,6.6,4742,3,2,4,No,No,
+EMP1221,Finance,Accountant,42,Male,0.6,5318,4,3,3,No,No,
+EMP1202,Human Resources,HR Business Partner,33,Female,7.6,6999,3,1,3,No,No,
+EMP1003,Sales,Account Executive,39,Female,9.8,2404,4,2,3,Yes,Yes,Manager support
+EMP1092,Customer Support,Support Specialist,40,Male,9.4,4846,3,2,4,No,No,
+EMP1014,Sales,Account Executive,55,Female,11.0,5873,3,1,3,No,No,
+EMP1232,Marketing,Marketing Executive,52,Female,7.1,7866,5,4,3,Yes,No,
+EMP1116,Engineering,DevOps Engineer,25,Female,8.2,5305,3,3,4,No,No,
+EMP1220,Finance,Finance Analyst,27,Male,6.2,6111,1,3,4,No,No,
+EMP1203,Human Resources,HR Business Partner,48,Female,5.1,5608,3,4,3,No,No,
+EMP1207,Human Resources,HR Business Partner,52,Female,11.0,4567,3,2,3,No,No,
+EMP1074,Customer Support,Support Team Lead,39,Male,7.0,4246,3,3,5,Yes,No,
+EMP1126,Engineering,Software Engineer,54,Male,4.8,2781,3,4,4,No,No,
+EMP1043,Sales,Business Development Rep,36,Male,9.7,3942,1,2,3,No,Yes,Compensation
+EMP1143,Engineering,QA Analyst,27,Male,6.4,6272,1,3,4,No,No,
+EMP1231,Marketing,Marketing Executive,48,Female,8.2,3853,4,2,4,No,No,
+EMP1166,Operations,Operations Analyst,51,Male,1.7,7244,2,1,3,No,No,
+EMP1213,Finance,Finance Analyst,52,Female,8.0,2505,1,3,2,No,No,
+EMP1138,Engineering,Software Engineer,36,Female,9.9,6151,5,3,3,No,No,
+EMP1163,Operations,Operations Manager,23,Male,1.3,5224,4,4,3,No,No,
+EMP1125,Engineering,Software Engineer,25,Male,4.4,3143,2,3,2,No,Yes,Relocation
+EMP1048,Sales,Sales Representative,56,Female,1.2,3980,2,4,4,Yes,Yes,Work-life balance
+EMP1109,Customer Support,Support Team Lead,51,Female,5.0,3371,2,2,3,No,No,
+EMP1099,Customer Support,Support Specialist,56,Male,1.9,7288,3,5,4,No,No,
+EMP1148,Engineering,QA Analyst,29,Male,9.7,7106,5,4,5,No,No,
+EMP1036,Sales,Business Development Rep,34,Female,5.0,5376,5,5,3,No,No,
+EMP1153,Engineering,DevOps Engineer,46,Female,11.4,2687,3,4,5,No,No,
+EMP1108,Customer Support,Support Specialist,49,Female,1.5,3583,4,3,4,No,Yes,Compensation
+EMP1100,Customer Support,Support Specialist,28,Male,10.1,6791,5,2,4,Yes,No,
+EMP1131,Engineering,Software Engineer,43,Female,9.8,3354,4,3,3,No,No,
+EMP1037,Sales,Sales Representative,23,Female,1.6,5186,2,5,3,Yes,Yes,Work-life balance
+EMP1178,Operations,Operations Manager,38,Male,7.4,4433,5,2,3,No,No,
+EMP1096,Customer Support,Support Team Lead,57,Male,4.6,6643,1,3,3,No,No,
+EMP1047,Sales,Sales Representative,37,Female,10.1,5362,4,3,4,Yes,Yes,Career growth
+EMP1237,Marketing,Marketing Executive,41,Male,0.8,3590,1,2,3,No,No,
+EMP1079,Customer Support,Support Specialist,22,Male,6.8,3351,2,4,3,No,No,
+EMP1062,Sales,Sales Representative,52,Male,7.9,7694,3,1,3,No,Yes,Work-life balance
+EMP1031,Sales,Sales Representative,32,Male,9.0,7004,3,1,5,No,Yes,Career growth
+EMP1081,Customer Support,Support Team Lead,39,Male,9.3,6865,3,4,3,Yes,No,
+EMP1035,Sales,Account Executive,28,Female,4.8,2756,4,2,4,No,No,
+EMP1229,Marketing,Marketing Executive,53,Male,11.6,4981,3,2,4,No,No,
+EMP1022,Sales,Sales Representative,53,Female,5.9,6713,5,2,2,No,No,
+EMP1152,Engineering,DevOps Engineer,32,Female,11.4,3892,4,4,3,Yes,No,
+EMP1158,Operations,Operations Manager,45,Male,5.8,3750,3,1,3,No,No,
+EMP1077,Customer Support,Support Specialist,56,Female,5.7,2925,2,3,4,No,No,
+EMP1205,Human Resources,HR Executive,50,Male,10.2,3343,3,4,2,No,No,
+EMP1181,Operations,Operations Analyst,35,Female,2.7,5294,5,4,3,No,No,
+EMP1173,Operations,Operations Manager,41,Female,7.2,7874,4,3,4,No,No,
+EMP1209,Finance,Finance Analyst,48,Female,0.8,4750,4,1,4,No,No,
+EMP1045,Sales,Business Development Rep,55,Male,5.7,5055,5,1,3,No,No,
+EMP1159,Operations,Operations Analyst,58,Male,1.2,5796,4,3,4,No,No,
+EMP1118,Engineering,DevOps Engineer,38,Male,3.7,3643,1,4,3,No,No,
+EMP1217,Finance,Accountant,28,Male,10.8,2798,2,5,4,No,No,
+EMP1091,Customer Support,Support Team Lead,40,Male,0.6,6656,2,3,4,No,Yes,Work-life balance
+EMP1090,Customer Support,Support Team Lead,49,Male,8.4,7323,4,2,3,No,Yes,Work-life balance
+EMP1030,Sales,Business Development Rep,38,Male,10.9,2888,1,3,3,Yes,No,
+EMP1151,Engineering,QA Analyst,44,Male,7.5,7084,2,5,5,Yes,No,
+EMP1101,Customer Support,Support Team Lead,28,Female,11.8,6345,3,5,3,No,Yes,Career growth
+EMP1157,Operations,Operations Manager,33,Male,9.6,7890,2,5,4,Yes,No,
