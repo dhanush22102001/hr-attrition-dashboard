@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HR Attrition Dashboard</title>
+<style>
+  :root{--bg:#f7f8fa;--card:#fff;--ink:#14181f;--muted:#5b6472;--line:#e3e7ee;--accent:#2557d6;--soft:#eaf0ff;--bad:#c0392b}
+  *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+  .wrap{max-width:960px;margin:0 auto;padding:28px 18px 56px}
+  h1{margin:0 0 4px;font-size:1.7rem} .sub{color:var(--muted);margin:0 0 18px}
+  .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+  .kpi,.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+  .kpi b{display:block;font-size:1.8rem} .kpi span{color:var(--muted);font-size:.85rem}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px;margin-top:14px}
+  h2{font-size:1.05rem;margin:0 0 12px}
+  .bar-row{display:grid;grid-template-columns:130px 1fr 64px;gap:10px;align-items:center;margin:9px 0;font-size:.9rem}
+  .track{height:12px;background:var(--soft);border-radius:999px;overflow:hidden}
+  .fill{height:100%;background:var(--accent);border-radius:999px}
+  .fill.hot{background:var(--bad)}
+  .val{color:var(--muted);text-align:right}
+  ul{margin:6px 0 0;padding-left:18px} li{margin:5px 0}
+  .note{color:var(--muted);font-size:.85rem;margin-top:16px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>HR Attrition Dashboard</h1>
+  <p class="sub">People Analytics sample project · fictional dataset of 240 employees · built with Python + HTML/CSS</p>
+
+  <div class="kpis">
+    <div class="kpi"><b>240</b><span>Employees analysed</span></div>
+    <div class="kpi"><b>48</b><span>Employees who left</span></div>
+    <div class="kpi"><b>20.0%</b><span>Overall attrition rate</span></div>
+    <div class="kpi"><b>30.6%</b><span>Attrition in first 2 years</span></div>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>Attrition by department</h2>
+      <div class="bar-row"><span>Customer Support</span><div class="track"><div class="fill hot" style="width:29.2%"></div></div><span class="val">29.2%</span></div>
+      <div class="bar-row"><span>Sales</span><div class="track"><div class="fill hot" style="width:29%"></div></div><span class="val">29.0%</span></div>
+      <div class="bar-row"><span>Human Resources</span><div class="track"><div class="fill" style="width:18.8%"></div></div><span class="val">18.8%</span></div>
+      <div class="bar-row"><span>Finance</span><div class="track"><div class="fill" style="width:14.3%"></div></div><span class="val">14.3%</span></div>
+      <div class="bar-row"><span>Operations</span><div class="track"><div class="fill" style="width:13.2%"></div></div><span class="val">13.2%</span></div>
+      <div class="bar-row"><span>Marketing</span><div class="track"><div class="fill" style="width:11.1%"></div></div><span class="val">11.1%</span></div>
+      <div class="bar-row"><span>Engineering</span><div class="track"><div class="fill" style="width:9.1%"></div></div><span class="val">9.1%</span></div>
+    </div>
+
+    <div class="card">
+      <h2>Attrition by tenure</h2>
+      <div class="bar-row"><span>0–2 years</span><div class="track"><div class="fill hot" style="width:30.6%"></div></div><span class="val">30.6%</span></div>
+      <div class="bar-row"><span>5+ years</span><div class="track"><div class="fill" style="width:20.1%"></div></div><span class="val">20.1%</span></div>
+      <div class="bar-row"><span>2–5 years</span><div class="track"><div class="fill" style="width:12.7%"></div></div><span class="val">12.7%</span></div>
+      <h2 style="margin-top:20px">Top exit reasons</h2>
+      <ul>
+        <li>Career growth — 19 exits</li>
+        <li>Work-life balance — 8 exits</li>
+        <li>Manager support — 8 exits</li>
+        <li>Compensation — 6 exits</li>
+        <li>Career change — 4 exits</li>
+        <li>Relocation — 3 exits</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:14px">
+    <h2>Key insights</h2>
+    <ul>
+      <li>Attrition is highest in frontline teams: Customer Support (29.2%) and Sales (29.0%), vs Engineering (9.1%).</li>
+      <li>The first two years are the danger zone: 30.6% attrition for 0–2 year employees — an onboarding and early-career progression signal.</li>
+      <li>Career growth is the #1 stated exit reason (19 of 48), ahead of compensation — clear progression paths may retain more people than pay rises alone.</li>
+      <li>Low job-satisfaction and work-life-balance scores cluster among leavers in the dataset (see analysis script).</li>
+    </ul>
+    <p class="note">Sample-data portfolio project by Dhanush — HR &amp; People Analytics · Power BI · Excel · Python. Data is fictional; methods mirror real attrition reporting.</p>
+  </div>
+</div>
+</body>
+</html>
